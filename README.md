@@ -1,3 +1,3 @@
 # Git_Merge
 
-Hello Worl1 branch1
+Hello world1
